@@ -1,7 +1,7 @@
 # forkify
 forkify app for Recipes
 
-This app is published at - 
+This app is published at - https://sameerbhilare.github.io/forkify
 
 Please note - 
 1. The UI structure(HTML, CSS) was already present and given by Jonas Schmedtmann - The amazing tutor who taught me Advance Javascript and this forkify project is part of the course project. I am very thankful to him. :)
